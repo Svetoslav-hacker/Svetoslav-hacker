@@ -5,7 +5,6 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Svetoslav-hacker.Svetoslav-hacker&color=00ff00" alt="visitors"/>
   <img src="https://img.shields.io/badge/OS-Arch_Linux-00ff00?style=flat&logo=arch-linux&logoColor=white" alt="os"/>
 </p>
 
