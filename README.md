@@ -45,7 +45,7 @@ I'm Svetoslav, a full-stack developer with 2 years of experience passionate abou
 
 ### • Let's Connect!
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Svetoslav_lepeshkin)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Svetoslav_lepeshkin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lepeskinsvetoslav@gmail.com)
 
 ---
