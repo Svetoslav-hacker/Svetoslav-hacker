@@ -1,4 +1,3 @@
-````markdown
 # Привет, я Svetoslav 👋
 
 Full-stack разработчик · Node.js · Python · JavaScript · Arch Linux
@@ -52,6 +51,3 @@ Full-stack разработчик · Node.js · Python · JavaScript · Arch Lin
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/username)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Svetoslav-hacker)
-````
-
-Скопируй это в файл `README.md` в репозитории `Svetoslav-hacker/Svetoslav-hacker`. Не забудь заменить `https://t.me/username` на свою ссылку в Telegram!
