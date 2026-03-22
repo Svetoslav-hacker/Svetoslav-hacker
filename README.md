@@ -1,4 +1,4 @@
-# Привет, я Svetoslav 👋
+# Привет, я Светослав 👋
 
 Full-stack разработчик · Node.js · Python · JavaScript · Arch Linux
 
