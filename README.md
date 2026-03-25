@@ -49,5 +49,5 @@ Full-stack разработчик · Node.js · Python · JavaScript · Arch Lin
 
 ### 📬 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@Lawl1et_L)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Svetoslav-hacker)
